@@ -1,0 +1,11 @@
+# Imagen de ejemplo para la pregunta 1
+# Coloca tus imágenes reales aquí
+# Este es solo un archivo placeholder
+
+Este archivo es solo un recordatorio de que debes colocar tus imágenes en esta carpeta.
+
+Nombres sugeridos para las preguntas que mencionan "Observar la figura":
+- pregunta1.png (o .jpg)
+- pregunta2.png (o .jpg)
+
+Recuerda que puedes usar cualquier nombre, solo asegúrate de actualizar la ruta en el archivo src/App.jsx
